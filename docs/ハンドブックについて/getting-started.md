@@ -13,6 +13,7 @@
   1. [2段階認証が必要なので、あらかじめ設定してください。](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
     1. 2段階認証アプリは Google Authenticator または Microsoft Authenticator を推奨しています。GitHub が推奨している方法・アプリどれでも使えます。ただし、SMSによる2段階認証は避けてください。
 2. GitHub 管理者に自分の GitHub アカウント名を伝えください。
+  1. 現在の GitHub 管理者は: [小林](https://geolonia.slack.com/team/U01LZUXSJDP) [新宮領](https://geolonia.slack.com/team/U059ZQWAMR9)
 
 ## フォークとプルリクエストの作成
 
