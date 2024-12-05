@@ -5,13 +5,9 @@
 - 会社戦略
 - コミュニケーション
 - カルチャー
-- TeamOps
-- CEO Readme
 - CEO 室
 - Key Reviews
 - Group Conversations
-- E-Group Weekly (役員会)
-- Environmental, Social, and Governance　（不要かも）
 # ハンドブックについて
 - [ハンドブック　エスカレーション](/docs/ハンドブックについて/index.md#エスカレーションについて)
 - ハンドブックの利用
@@ -33,7 +29,6 @@
 - Talent Assessment
 - Team Member Relations at GitLab
 - Team Member Relations Philosophy
-- Total Rewards ?
 - ツールとティップス
 # 開発
 - 顧客サポートチーム
@@ -52,7 +47,6 @@
 - Team Member Social Media Policy
 - Blog
 - Brand and Product Marketing
-- Enterprise Data ?
 - Sales Development
 - Marketing Operations and Analytics
 - Growth
